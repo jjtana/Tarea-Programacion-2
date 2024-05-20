@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\bin\Debug\net6.0\TareaP2.exe
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\bin\Debug\net6.0\TareaP2.deps.json
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\bin\Debug\net6.0\TareaP2.runtimeconfig.json
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\bin\Debug\net6.0\TareaP2.dll
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\bin\Debug\net6.0\TareaP2.pdb
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\obj\Debug\net6.0\TareaP2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\obj\Debug\net6.0\TareaP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\obj\Debug\net6.0\TareaP2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\obj\Debug\net6.0\TareaP2.AssemblyInfo.cs
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\obj\Debug\net6.0\TareaP2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\obj\Debug\net6.0\TareaP2.dll
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\obj\Debug\net6.0\refint\TareaP2.dll
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\obj\Debug\net6.0\TareaP2.pdb
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\obj\Debug\net6.0\TareaP2.genruntimeconfig.cache
+C:\Users\User\Desktop\MownProjects\TareaP2\TareaP2\obj\Debug\net6.0\ref\TareaP2.dll
